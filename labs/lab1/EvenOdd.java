@@ -1,7 +1,7 @@
 
 import java.util.Arrays;
 
-class Hello{
+class EvenOdd{
 
 public static void main (String args[])
 {
